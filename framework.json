@@ -1,8 +1,8 @@
 {
-    "name": "Arduino AVR",
+    "name": "avr-arduino",
     "url": "https://github.com/arduino/ArduinoCore-avr/",
     "toolchain-file": "cmake/ArduinoToolchain.cmake",
     "platform": "avr",
     "framework": "arduino",
-    "requirements": ["arduino-cmake"]
+    "requirements": ["module-arduino-cmake@1.0.0"]
 }
