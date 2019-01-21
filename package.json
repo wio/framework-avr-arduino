@@ -1,6 +1,6 @@
 {
   "name": "wio-framework-avr-arduino",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "AVR Arduino framework for Wio",
   "repository": {
     "type": "git",
