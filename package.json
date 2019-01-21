@@ -1,0 +1,19 @@
+{
+  "name": "wio-framework-avr-arduino",
+  "version": "1.0.0",
+  "description": "AVR Arduino framework for Wio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wio/framework-avr-arduino.git"
+  },
+  "keywords": ["arduino", "avr"],
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/wio/framework-avr-arduino/issues"
+  },
+  "homepage": "https://github.com/wio/framework-avr-arduino#readme",
+  "dependencies": {
+    "wio-module-arduino-cmake": "1.0.0"
+  },
+  "toolchain-file": "cmake/ArduinoToolchain.cmake"
+}
